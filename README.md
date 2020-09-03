@@ -13,9 +13,9 @@
 ```
 
 Progress :
-- [x] Event Gestion
-- [x] Non Generic
-- [ ] Thread process
-- [ ] Generic
-- [ ] Single Queue
-- [x] Multi Queue
+- [x] Event Gestion (Basic)
+- [x] Non Generic (Simple)
+- [ ] Thread process (Optimization)
+- [ ] Generic (Module)
+- [ ] Single Queue (Optimization)
+- [x] Multi Queue (Simple)
