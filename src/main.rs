@@ -2,7 +2,7 @@
 
 Objectif:
 
-    struct XNXX {
+    struct ??? {
         data: i32,
     }
 
